@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I will briefly talk about myself . I am a software engineer with a passion for her profession. I love to attend community meetups and share information. 
+I will briefly talk about myself . I am a software engineer with a passion for his profession. I love to attend community meetups and share information. 
 I love meeting people and learning new things all the time. 
 
 ### You can also find me on
