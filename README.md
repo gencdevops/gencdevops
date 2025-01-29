@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## Technology Stack
+### Technology Stack
 
 <!-- https://github.com/tandpfun/skill-icons -->
 <div align="center">
